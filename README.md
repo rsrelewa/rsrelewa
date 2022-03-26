@@ -59,7 +59,7 @@
     <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/react.svg" alt="ReactJS" height="40"/></code>
   </a>
   <a href="https://nextjs.org" target="_blank">
-    <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/next.svg" alt="NextJS" height="40"/></code>
+    <code><img src="https://seeklogo.com/images/N/next-js-logo-8FCFF51DD2-seeklogo.com.png" alt="NextJS" height="40"/></code>
   </a>
 </p>
 
@@ -75,7 +75,7 @@
   </a>
   <br>
   <a href="https://expressjs.com" target="_blank">
-    <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/express.svg" alt="ExpressJS" height="40"/></code>
+    <code><img src="https://expressjs.com/images/express-facebook-share.png" alt="ExpressJS" height="40"/></code>
   </a>
 </p>
 
