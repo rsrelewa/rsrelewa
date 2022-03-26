@@ -59,7 +59,7 @@
     <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/react.svg" alt="ReactJS" height="40"/></code>
   </a>
   <a href="https://nextjs.org" target="_blank">
-    <code><img src="https://seeklogo.com/images/N/next-js-logo-8FCFF51DD2-seeklogo.com.png" alt="NextJS" height="40"/></code>
+    <code><img src="https://blog.logrocket.com/wp-content/uploads/2020/11/Nextjs-logo.png" alt="NextJS" height="40"/></code>
   </a>
 </p>
 
