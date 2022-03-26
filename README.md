@@ -1,6 +1,6 @@
 <!-- Header -->
 <h1 align="center">
-  <img src="https://avatars.githubusercontent.com/u/81452711?s=400&u=d312bede75a24c7bb66e2f0fe8c1b29f5a980c36&v=4" width="500">
+  <img src="https://avatars.githubusercontent.com/u/81452711?s=400&u=d312bede75a24c7bb66e2f0fe8c1b29f5a980c36&v=4" widt">
   <br>
   Hi, I'm Raghid Elewa 
 </h1>
