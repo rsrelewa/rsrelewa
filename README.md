@@ -1,6 +1,6 @@
 <!-- Header -->
 <h1 align="center">
-  <img src="https://avatars.githubusercontent.com/u/81452711?s=400&u=d312bede75a24c7bb66e2f0fe8c1b29f5a980c36&v=4" widt">
+  <img src="https://avatars.githubusercontent.com/u/81452711?s=400&u=d312bede75a24c7bb66e2f0fe8c1b29f5a980c36&v=4" width="200">
   <br>
   Hi, I'm Raghid Elewa 
 </h1>
@@ -11,7 +11,7 @@
   <b>I'm a passionate programmer who loves to code</b>
 </p>
 
-<img align='right' src="https://github.com/oHTGo/oHTGo/blob/main/images/coding.gif" width="200">
+<img align='right' src="https://github.com/oHTGo/oHTGo/blob/main/images/coding.gif" width="300">
 <br>
 
 - ♑ I am creatively curious and a self-learner. I love exploring new technologies and currently learning new skills.
