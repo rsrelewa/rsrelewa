@@ -16,7 +16,7 @@
 
 - ♑ I am creatively curious and a self-learner. I love exploring new technologies and currently learning new skills.
 - 📓 I'm a graduate of McMaster University
-- 👨🏻‍💻 I am working at C0D3 as a Full Stack `Software Engineer`.
+- 👨🏻‍💻 I am working at pixelturn as a Full Stack `Software Engineer`.
 - 🌱 I’m currently focusing on all areas of **Web Development**
 - 💬 I’m looking forward to eating all the good food in the world.
 
