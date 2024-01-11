@@ -16,7 +16,7 @@
 
 - ♑ I am creatively curious and a self-learner. I love exploring new technologies and currently learning new skills.
 - 📓 I'm a graduate of McMaster University
-- 👨🏻‍💻 I am have 3 years experience as a Full Stack `Software Engineer`.
+- 👨🏻‍💻 I have 3 years experience as a Full Stack `Software Engineer`.
 - 🌱 I’m currently focusing on all areas of **Web Development and More**
 - 💬 I’m looking forward to eating all the good food in the world.
 
